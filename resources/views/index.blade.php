@@ -13,9 +13,7 @@
                         <div class="row">
                             <div class="col-lg-offset-2 col-lg-8 col-md-offset-2 col-md-8 col-sm-12 col-xs-12">
                                 <div class="animated bounceInDown slider-captions">
-                                    <h1 class="slider-title">Most Stylish Free Travel Website</h1>
-                                    <p class="slider-text hidden-xs">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's</p>
-                                    
+                                    <h1 class="slider-title">Improving poor people's access to essential services</h1>
                                 </div>
                             </div>
                         </div>
@@ -28,8 +26,7 @@
                     <div class="row">
                         <div class="col-lg-offset-2 col-lg-8 col-md-offset-2 col-md-8 col-sm-12 col-xs-12">
                             <div class="slider-captions ">
-                                <h1 class="slider-title">It's time for better help.</h1>
-                                <p class="slider-text hidden-xs">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's</p>
+                                <h1 class="slider-title">Securing basic human rights and justice</h1>
                                 
                             </div>
                         </div>
@@ -42,9 +39,7 @@
                     <div class="row">
                         <div class="col-lg-offset-2 col-lg-8 col-md-offset-2 col-md-8 col-sm-12 col-xs-12">
                             <div class="slider-captions ">
-                                <h1 class="slider-title">Most Attractive Travel Template</h1>
-                                <p class="slider-text hidden-xs">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's</p>
-                               
+                                <h1 class="slider-title">Mutual Respect for People</h1>                               
                             </div>
                         </div>
                     </div>
@@ -62,41 +57,33 @@
         <div class="row natur-row no-margin w-100">
             <div class="text-part col-md-6">
                 <h2>About Our Charity</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis varius faucibus
-                    ligula non congue. Suspendisse at pretium massa, sit amet
-                    vulputate nibh. Nam posuere eros dolor. Donec vel arcu sagittis, pretium nisl </p>
-                <p> Cras faucibus laoreet nibh, sit amet tincidunt leo mollis in. Etiam eu mauris metus.
-                    Nulla facilisi. Etiam vestibulum,
-                    nisi et convallis elementum, leo orci aliquam metus, id posuere massa neque vitae
-                    arcu.</p>
-
-                <p>Integer vulputate vehicula dolor a eleifend. Duis aliquam condimentum sapien,
-                    eget tempor justo. Aenean porttitor nibh metus, sollicitudin egestas metus posuere et
-                    . Fusce egestas volutpat metus, in sodales sem bibendum porta. Nunc hendrerit nunc sit
-                    amet tellus posuere, at malesuada sem gravida. Integer maximus ultricies augue, at
-                    dapibus elit bibendum consequat. Cras faucibus tellus eleifend, fermentum purus in,
-                    dapibus sapien. Praesent nec ornare risus. Etiam iaculis, ligula vel gravida
-                    vestibulum, urna justo posuere ante,
-                    id pretium massa arcu sed mi. Nunc a sollicitudin sem. Duis tempus </p>
+                <p>
+                    Justice Livelihoods Health JLH is an indigenous
+registered Non-Governmental Organization. This
+Local NGO was formed to see the lives of the poor
+disadvantaged communities transformed from poverty
+to opportunity from inequality to justice and from
+despair to hope.
+                </p>
             </div>
             <div class="image-part col-md-6">
                 <div class="about-quick-box row">
                     <div class="col-md-6">
                         <div class="about-qcard">
                            <i class="fas fa-user"></i>
-                            <p>Becom a Volunteer</p>
+                            <p>Become a Volunteer</p>
                         </div>
                     </div>
                      <div class="col-md-6">
                         <div class="about-qcard ">
                            <i class="fas fa-search-dollar red"></i>
-                            <p>Quick Fundrais</p>
+                            <p>Quick Fundraise</p>
                         </div>
                     </div>
                      <div class="col-md-6">
                         <div class="about-qcard ">
                            <i class="fas fa-donate yell"></i>
-                            <p>Giv Donation</p>
+                            <p>Give Donation</p>
                         </div>
                     </div>
                      <div class="col-md-6">
@@ -115,13 +102,13 @@
     <div class="container">
          <div class="session-title row">
              <h2>What we Do</h2>
-             <p>We are a non-profital & Charity raising money for child education</p> 
+             <p>We build on local skills and knowledge with the aims of:</p> 
          </div><br>
          <div class="row">
              <div class="col-md-6">
                 <br>
                  <div class="donat-form">
-                      <div class="form-titl">
+                      <div class="form-titl" style="background: #075985 !important;">
                           <b>Enter the amount for Donation</b>
                       </div>
                       <div class="form-dong">
@@ -157,7 +144,7 @@
                              <i class="fas fa-user-graduate"></i>
                          </div>
                          <div class="detail">
-                             <h6>We Care Student Education</h6>
+                             <h6>The Prevention or Relief of Poverty</h6>
                              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
                          </div>
                      </div>
@@ -166,7 +153,7 @@
                              <i class="fas fa-medkit"></i>    
                          </div>
                          <div class="detail">
-                             <h6>Care Student Health</h6>
+                             <h6>The Advancement of Health and Saving Lives</h6>
                              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
                          </div>
                      </div>
@@ -175,7 +162,7 @@
                              <i class="fas fa-graduation-cap"></i>
                          </div>
                          <div class="detail">
-                             <h6>We Care Student Education</h6>
+                             <h6>The Advancement of Education</h6>
                              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                          </div>
                      </div>
@@ -184,7 +171,7 @@
                              <i class="fas fa-dollar-sign"></i>
                          </div>
                          <div class="detail">
-                             <h6>100% Goes to the Field</h6>
+                             <h6>The Relief of Suffering and Distress</h6>
                              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
                          </div>
                      </div>
@@ -206,7 +193,12 @@
           <div class="row mission">
               <div class="col-md-6 mv-det">
                   <h1>Our Mission</h1>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer neque libero, pulvinar et elementum quis, facilisis eu ante. Mauris non placerat sapien. Pellentesque tempor arcu non odio scelerisque ullamcorper. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam varius eros consequat auctor gravida. Fusce tristique lacus at urna sollicitudin pulvinar. Suspendisse hendrerit ultrices mauris.</p>
+                  <p>
+                    The mission of JLH is to follow our Lord and Saviour Jesus Christ in
+                    securing a holistic approach to sustainable improvements in the
+                    lives of poor and disadvantaged people,particularly those affected
+                    by conflict and insecurity.
+                  </p>
               </div>
               <div class="col-md-6 mv-img">
                   <img src="{{ asset('assets/images/misin.jpg') }}" alt="">
@@ -218,7 +210,12 @@
               </div>
               <div class="col-md-6 mv-det">
                    <h1>Our Vision</h1>
-                   <p>Ut ultricies lacus a rutrum mollis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed porta dolor quis felis pulvinar dignissim. Etiam nisl ligula, ullamcorper non metus vitae, maximus efficitur mi. Vivamus ut ex ullamcorper, scelerisque lacus nec, commodo dui. Proin massa urna, volutpat vel augue eget, iaculis tristique dui.</p>
+                   <p>
+                    Our vision is to see Jesus Christ’s approach to
+                    transformation of lives of poor and disadvantaged
+                    communities from poverty to opportunity, from inequality
+                    to Justice and from despair to hope.
+                   </p>
               </div>
           </div>
       </div>
@@ -236,29 +233,35 @@
             <div class="event-ro row">
                 <div class="col-md-4 col-sm-6">
                     <div class="event-box">
-                        <img src="{{ asset('assets/images/events/image_08.jpg') }}" alt="">
-                        <h4>Child Education in Africa</h4>
+                        <img src="{{ asset('assets/images/events/image_05.jpg') }}" alt="">
+                        <h4>Child protection training and advocacy</h4>
                         
                         <p class="raises"><span>Raised : $34,425</span> / $500,000 </p>
-                        <p class="desic">Lorem Ipsum is simply dummy text of the printing and typesetting industry.  Lorem Ipsum has been the industry's </p>
+                        <p class="desic">Specific Objectives in Gulu with Gulu Newlife Baptist Association (GNLBA)
+                            and Aswa Baptist Association (ABA) in Holistic agribusiness and
+                            agroforestry training</p>
                         <button class="btn btn-success btn-sm">Donate Now</button>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6">
                     <div class="event-box">
-                        <img src="{{ asset('assets/images/events/image_06.jpg') }}" alt="">
-                        <h4>Child Education in Africa</h4>
+                        <img src="{{ asset('assets/images/events/image_07.jpg') }}" alt="">
+                        <h4>Provision of affordable, quality water sources</h4>
                         <p class="raises"><span>Raised : $34,425</span> / $500,000 </p>
-                        <p class="desic">Lorem Ipsum is simply dummy text of the printing and typesetting industry.  Lorem Ipsum has been the industry's </p>
+                        <p class="desic">Specific Objectives in Gulu with Gulu Newlife Baptist Association (GNLBA)
+                            and Aswa Baptist Association (ABA) in Holistic agribusiness and
+                            agroforestry training</p>
                         <button class="btn btn-success btn-sm">Donate Now</button>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6">
                     <div class="event-box">
                         <img src="{{ asset('assets/images/events/image_04.jpg') }}" alt="">
-                        <h4>Child Education in Africa</h4>
+                        <h4>Provision of communication therapy services</h4>
                         <p class="raises"><span>Raised : $34,425</span> / $500,000 </p>
-                        <p class="desic">Lorem Ipsum is simply dummy text of the printing and typesetting industry.  Lorem Ipsum has been the industry's </p>
+                        <p class="desic">Specific Objectives in Gulu with Gulu Newlife Baptist Association (GNLBA)
+                            and Aswa Baptist Association (ABA) in Holistic agribusiness and
+                            agroforestry training</p>
                         <button class="btn btn-success btn-sm">Donate Now</button>
                     </div>
                 </div>
@@ -295,7 +298,7 @@ But you can read the following facts in order to make sure of all pluses of our 
                     </div>
                     <div class="col-sm-3 numb">
                         <h3>48+</h3>
-                        <span>FUNT RAISED</span>
+                        <span>FUNDS RAISED</span>
                     </div>
                 </div>
             </div>
@@ -309,41 +312,40 @@ But you can read the following facts in order to make sure of all pluses of our 
             <div class="container">
                 <div class="session-title row">
                       <h2>Meet our Team</h2>
-                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce fringilla vel nisl a dictum. Donec ut est arcu. Donec hendrerit velit</p>
                 </div>
                 <div class="row team-row">
                     <div class="col-md-3 col-sm-6">
                         <div class="single-usr">
                             <img src="{{ asset('assets/images/team/team-memb1.jpg') }}" alt="">
                             <div class="det-o">
-                                <h4>David Kanuel</h4>
+                                <h4>BAHINDI EMMANUEL</h4>
                                 <i>CEO </i>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="single-usr">
-                            <img src="{{ asset('assets/images/team/team-memb2.jpg') }}" alt="">
+                            <img src="{{ asset('assets/images/team/team-memb1.jpg') }}" alt="">
                             <div class="det-o">
-                                <h4>David Kanuel</h4>
+                                <h4>BAHINDI EMMANUEL</h4>
                                 <i>CFO</i>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="single-usr">
-                            <img src="{{ asset('assets/images/team/team-memb3.jpg') }}" alt="">
+                            <img src="{{ asset('assets/images/team/team-memb1.jpg') }}" alt="">
                             <div class="det-o">
-                                <h4>David Kanuel</h4>
+                                <h4>BAHINDI EMMANUEL</h4>
                                 <i>Team Leader</i>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="single-usr">
-                            <img src="{{ asset('assets/images/team/team-memb4.jpg') }}" alt="">
+                            <img src="{{ asset('assets/images/team/team-memb1.jpg') }}" alt="">
                             <div class="det-o">
-                                <h4>David Kanuel</h4>
+                                <h4>BAHINDI EMMANUEL</h4>
                                 <i>Project Manager</i>
                             </div>
                         </div>
@@ -373,7 +375,9 @@ But you can read the following facts in order to make sure of all pluses of our 
         					<div class="blog-detail">
         						<small>By Admin | August 10 2018</small>
 								<h4>Methods of Recuirtments</h4>
-								<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam justo neque, aliquet sit amet elementum vel, vehicula eget eros. Vivamus arcu metus, mattis sed sagittis at, sagittis quis neque. Praesent.</p>
+								<p>
+                                    Protect your people and your reputation by ensuring staff are equipped with a social media policy that outlines the organization's online tone of voice, procedure for handling complaints and escalation process,” Dyke advises. In other words: be responsive, not reactive.
+                                </p>
 								<div class="link">
 									<a href="">Read more </a><i class="fas fa-long-arrow-alt-right"></i>
 								</div>
@@ -390,7 +394,9 @@ But you can read the following facts in order to make sure of all pluses of our 
         					<div class="blog-detail">
         						<small>By Admin | August 10 2018</small>
 								<h4>Methods of Recuirtments</h4>
-								<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam justo neque, aliquet sit amet elementum vel, vehicula eget eros. Vivamus arcu metus, mattis sed sagittis at, sagittis quis neque. Praesent.</p>
+								<p>
+                                    Protect your people and your reputation by ensuring staff are equipped with a social media policy that outlines the organization's online tone of voice, procedure for handling complaints and escalation process,” Dyke advises. In other words: be responsive, not reactive.
+                                </p>
 								<div class="link">
 									<a href="">Read more </a><i class="fas fa-long-arrow-alt-right"></i>
 								</div>
@@ -407,7 +413,9 @@ But you can read the following facts in order to make sure of all pluses of our 
         					<div class="blog-detail">
         						<small>By Admin | August 10 2018</small>
 								<h4>Methods of Recuirtments</h4>
-								<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam justo neque, aliquet sit amet elementum vel, vehicula eget eros. Vivamus arcu metus, mattis sed sagittis at, sagittis quis neque. Praesent.</p>
+								<p>
+                                    Protect your people and your reputation by ensuring staff are equipped with a social media policy that outlines the organization's online tone of voice, procedure for handling complaints and escalation process,” Dyke advises. In other words: be responsive, not reactive.
+                                </p>
 								<div class="link">
 									<a href="">Read more </a><i class="fas fa-long-arrow-alt-right"></i>
 								</div>

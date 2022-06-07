@@ -27,10 +27,10 @@
 
     <div class="gallery-filter d-none d-sm-block">
         <button class="btn btn-default filter-button" data-filter="all">All</button>
-        <button class="btn btn-default filter-button" data-filter="hdpe">Finance</button>
-        <button class="btn btn-default filter-button" data-filter="sprinkle">Digital Marketing</button>
-        <button class="btn btn-default filter-button" data-filter="spray"> Money</button>
-        <button class="btn btn-default filter-button" data-filter="irrigation">Business Alaysis</button>
+        <button class="btn btn-default filter-button" data-filter="hdpe">Education</button>
+        <button class="btn btn-default filter-button" data-filter="sprinkle">Finance</button>
+        <button class="btn btn-default filter-button" data-filter="spray">Health</button>
+        <button class="btn btn-default filter-button" data-filter="irrigation">Relief</button>
     </div>
     <br/>
 
@@ -63,7 +63,7 @@
         </div>
 
         <div class="gallery_product col-lg-3 col-md-3 col-sm-4 col-xs-6 filter irrigation">
-            <img src="{{ asset('assets/images/events/image_06.jpg') }}" class="img-responsive">
+            <img src="{{ asset('assets/images/events/image_05.jpg') }}" class="img-responsive">
         </div>
 
         <div class="gallery_product col-lg-3 col-md-4 col-sm-3 col-xs-6 filter irrigation">

@@ -15,6 +15,22 @@
     <link rel="stylesheet" href="{{ asset('assets/plugins/slider/css/owl.theme.default.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/style.css') }}" />
 
+    <style>
+        .slider-img{
+            height: 70vh !important;
+        }
+        .event-box img,.gallery_product img{
+            width: 100%;
+            height: 300px;
+            object-fit: cover;
+        }
+        .single-blog figure img{
+            width: 100%;
+            height: 300px;
+            object-fit: cover;
+        }
+    </style>
+
 </head>
 
 <body>
@@ -27,11 +43,11 @@
                     <ul class="ulleft">
                         <li>
                             <i class="far fa-envelope"></i>
-                            sales@smarteyeapps.com
+                            operaations.jlh@gmail.com
                             <span>|</span></li>
                         <li>
                             <i class="fas fa-phone-volume"></i>
-                            +876 987 666 5433</li>
+                            +256 751412540</li>
                     </ul>
                 </div>
                 <div class="col-lg-3 col-md-6 folouws">
@@ -48,7 +64,7 @@
                             <i class="fab fa-instagram"></i>
                         </li>
                         <li>
-                            <i class="fab fa-linkedin"></i>
+                            <i class="fab fa-whatsapp"></i>
                         </li>
                     </ul>
                 </div>
@@ -116,13 +132,14 @@
         <div class="row">
 
           <div class="col-lg-3 col-md-6 footer-contact">
-            <h3 class="display-6 text-info">JLH</h3>
+            <h3 class="display-6" style="color: #1e3a8a;">JLH</h3>
             <p>
-              A108 Adam Street <br>
-              New York, NY 535022<br>
-              United States <br><br>
-              <strong>Phone:</strong> +1 5589 55488 55<br>
-              <strong>Email:</strong> info@example.com<br>
+                P O Box 35742<br>
+                KAMPALA CITY <br>
+                14B SERUMAGGA ROAD<br>
+                KALONDA ZONE, BUKOTO<br><br>
+              <strong>Phone:</strong>+256 751412540<br>
+              <strong>Email:</strong>operaations.jlh@gmail.com<br>
             </p>
           </div>
 
@@ -140,17 +157,17 @@
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Our Services</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Child protection training and advocacy</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Provision of affordable, quality water sources</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Provision of communication therapy services</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Support to Baptist associations and churches in growing their capacity
+                and enhancing their impact</a></li>
             </ul>
           </div>
 
           <div class="col-lg-4 col-md-6 footer-newsletter">
             <h4>Join Our Newsletter</h4>
-            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
+            <p>Subscribe to our news letter to get constant updates</p>
             <form action="" method="post">
               <input type="email" name="email"><input type="submit" value="Subscribe">
             </form>

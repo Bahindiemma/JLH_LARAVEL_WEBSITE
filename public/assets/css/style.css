@@ -1,11 +1,3 @@
-/* =======================================================================
-Template Name: Youtubers
-Author:  SmartEye Technologies
-Author URI: www.smarteyeapps.com
-Version: 1.0
-coder name:Prabin Raja
-Description: This Template is created for Youtubers
-======================================================================= */
 /* ===================================== Import Variables ================================== */
 @import url(https://fonts.googleapis.com/css?family=Montserrat:300,400,600,700);
 @import url(https://fonts.googleapis.com/css?family=Arimo:300,400,400italic,700,700italic);
@@ -186,31 +178,31 @@ body {
       font-weight: 600; }
 
 .btn-success {
-  background-color: #51be78;
-  border-color: #51be78; }
+  background-color: #075985;
+  border-color: #075985; }
   .btn-success:hover {
-    background-color: #51be78 !important;
-    border-color: #51be78 !important; }
+    background-color: #075985 !important;
+    border-color: #075985 !important; }
   .btn-success:active {
-    background-color: #51be78 !important;
-    border-color: #51be78 !important; }
+    background-color: #075985 !important;
+    border-color: #075985 !important; }
   .btn-success:focus {
-    background-color: #51be78 !important;
-    border-color: #51be78 !important;
+    background-color: #075985 !important;
+    border-color: #075985 !important;
     box-shadow: none !important; }
 
 .btn-primary {
-  background-color: #3cc88f;
-  border-color: #3cc88f; }
+  background-color: #1e3a8a;
+  border-color: #1e3a8a; }
   .btn-primary:hover {
-    background-color: #3cc88f !important;
-    border-color: #3cc88f !important; }
+    background-color: #1e3a8a !important;
+    border-color: #1e3a8a !important; }
   .btn-primary:active {
-    background-color: #3cc88f !important;
-    border-color: #3cc88f !important; }
+    background-color: #1e3a8a !important;
+    border-color: #1e3a8a !important; }
   .btn-primary:focus {
-    background-color: #3cc88f !important;
-    border-color: #3cc88f !important;
+    background-color: #1e3a8a !important;
+    border-color: #1e3a8a !important;
     box-shadow: none !important; }
 
 .btn {
@@ -325,7 +317,7 @@ header {
         border: 1px solid #CCC;
         border-radius: 50px; }
         header .nav-col .navbad li a:hover {
-          background-color: #3cc88f;
+          background-color: #1e3a8a;
           color: #fff !important; }
     header .nav-col .navbad .nav-btn {
       float: right; }
@@ -555,7 +547,7 @@ header {
     .about-us .image-part .about-quick-box .about-qcard i {
       font-size: 3rem;
       margin-bottom: 30px;
-      color: #3cc88f; }
+      color: #1e3a8a; }
     .about-us .image-part .about-quick-box .about-qcard .red {
       color: #ff6b70; }
     .about-us .image-part .about-quick-box .about-qcard .yell {
@@ -585,7 +577,7 @@ header {
   margin-bottom: 10px; }
 
 .events .event-ro .event-box .raises span {
-  color: #71b61b; }
+  color: #1e40af; }
 
 .events .event-ro .event-box .desic {
   font-size: 13px;
@@ -654,7 +646,7 @@ header {
   padding: 15px; }
 
 .our-blog .single-blog small {
-  color: #71b61b;
+  color: #1e40af;
   font-size: 12px; }
 
 .our-blog .single-blog h4 {
@@ -668,7 +660,7 @@ header {
 
 .our-blog .single-blog .link a {
   font-size: 12px;
-  color: #71b61b; }
+  color: #1e40af; }
 
 .our-blog .single-blog .link i {
   padding-top: 6px;
@@ -691,7 +683,7 @@ header {
         width: 100%; }
       .our-team .team-row .single-usr .det-o {
         padding: 20px;
-        background-color: #3cc88f; }
+        background-color: #1e3a8a; }
         .our-team .team-row .single-usr .det-o h4 {
           color: #FFF;
           margin-bottom: 0px;
@@ -744,26 +736,26 @@ header {
   width: 7.5%;
   left: 46.5%;
   height: 45px;
-  border-bottom: 1px solid #3cc88f; }
+  border-bottom: 1px solid #1e3a8a; }
 
 .filter-button {
   font-size: 18px;
-  border: 1px solid #3cc88f;
+  border: 1px solid #1e3a8a;
   border-radius: 5px;
   text-align: center;
-  color: #3cc88f;
+  color: #1e3a8a;
   margin-bottom: 30px; }
 
 .filter-button:hover {
   font-size: 18px;
-  border: 1px solid #3cc88f;
+  border: 1px solid #1e3a8a;
   border-radius: 5px;
   text-align: center;
   color: #ffffff;
-  background-color: #3cc88f; }
+  background-color: #1e3a8a; }
 
 .btn-default:active .filter-button:active {
-  background-color: #3cc88f;
+  background-color: #1e3a8a;
   color: white; }
 
 .port-image {
@@ -820,7 +812,7 @@ header {
 }
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #5fcf80;
+  color: #1e40af;
   font-size: 18px;
   line-height: 1;
 }
@@ -840,7 +832,7 @@ header {
 }
 #footer .footer-top .footer-links ul a:hover {
   text-decoration: none;
-  color: #5fcf80;
+  color: #1e40af;
 }
 #footer .footer-newsletter {
   font-size: 15px;
@@ -875,30 +867,30 @@ header {
   background: none;
   font-size: 16px;
   padding: 0 20px 2px 20px;
-  background: #5fcf80;
+  background: #1e40af;
   color: #fff;
   transition: 0.3s;
   border-radius: 50px;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
 }
 #footer .footer-newsletter form input[type=submit]:hover {
-  background: #3ac162;
+  background: #1e40af;
 }
 #footer .credits {
   padding-top: 5px;
   font-size: 13px;
 }
 #footer .credits a {
-  color: #3ac162;
+  color: #1e40af;
   transition: 0.3s;
 }
 #footer .credits a:hover {
-  color: #5fcf80;
+  color: #1e40af;
 }
 #footer .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #5fcf80;
+  background: #1e40af;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -910,7 +902,7 @@ header {
   transition: 0.3s;
 }
 #footer .social-links a:hover {
-  background: #3ac162;
+  background: #1e40af;
   color: #fff;
   text-decoration: none;
 }
