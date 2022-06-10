@@ -103,4 +103,89 @@ despair to hope.
   </div>
 </section>
 
+<!--################### Our Team Starts Here #######################--->
+<section class="our-team team-11">
+    <div class="container">
+        <div class="session-title row">
+              <h2>Meet our Team</h2>
+        </div>
+        <div class="row team-row">
+            <div class="col-md-3 col-sm-6">
+                <div class="single-usr">
+                    <img src="{{ asset('assets/images/team/team-memb1.jpg') }}" alt="">
+                    <div class="det-o">
+                        <h4>MR. ERONE MARTIN</h4>
+                        <i>Chairman Board of Directors</i>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <div class="single-usr">
+                    <img src="{{ asset('assets/images/team/team-memb1.jpg') }}" alt="">
+                    <div class="det-o">
+                        <h4>MR. SEKABANJA EDWARD KATO SAMUEL</h4>
+                        <i>Board Secretary</i>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <div class="single-usr">
+                    <img src="{{ asset('assets/images/team/team-memb1.jpg') }}" alt="">
+                    <div class="det-o">
+                        <h4>MR. GREENWOOD MARK EDWARD</h4>
+                        <i>Ex-Officio</i>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <div class="single-usr">
+                    <img src="{{ asset('assets/images/team/team-memb1.jpg') }}" alt="">
+                    <div class="det-o">
+                        <h4>MRS. IDEMBE BUNGA CAROLINE PROSCOVIA</h4>
+                        <i>Member</i>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row team-row">
+            <div class="col-md-3 col-sm-6">
+                <div class="single-usr">
+                    <img src="{{ asset('assets/images/team/team-memb1.jpg') }}" alt="">
+                    <div class="det-o">
+                        <h4>PR. BWAMBALE ALFONSE</h4>
+                        <i>Member</i>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <div class="single-usr">
+                    <img src="{{ asset('assets/images/team/team-memb1.jpg') }}" alt="">
+                    <div class="det-o">
+                        <h4>PR. OKELLO GEOFFREY</h4>
+                        <i>Member</i>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <div class="single-usr">
+                    <img src="{{ asset('assets/images/team/team-memb1.jpg') }}" alt="">
+                    <div class="det-o">
+                        <h4>MR. KABANDA PETER</h4>
+                        <i>Member</i>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <div class="single-usr">
+                    <img src="{{ asset('assets/images/team/team-memb1.jpg') }}" alt="">
+                    <div class="det-o">
+                        <h4>MR. OCEN FREDRICK</h4>
+                        <i>Member</i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 @endsection

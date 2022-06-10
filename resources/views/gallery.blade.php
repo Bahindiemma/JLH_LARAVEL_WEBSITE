@@ -27,10 +27,9 @@
 
     <div class="gallery-filter d-none d-sm-block">
         <button class="btn btn-default filter-button" data-filter="all">All</button>
-        <button class="btn btn-default filter-button" data-filter="hdpe">Education</button>
-        <button class="btn btn-default filter-button" data-filter="sprinkle">Finance</button>
-        <button class="btn btn-default filter-button" data-filter="spray">Health</button>
-        <button class="btn btn-default filter-button" data-filter="irrigation">Relief</button>
+        <button class="btn btn-default filter-button" data-filter="hdpe">JUSTICE</button>
+        <button class="btn btn-default filter-button" data-filter="sprinkle">LIVELIHOOD</button>
+        <button class="btn btn-default filter-button" data-filter="spray">HEALTH</button>
     </div>
     <br/>
 

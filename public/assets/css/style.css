@@ -394,6 +394,8 @@ header {
   position: relative; }
 
 .slider-img img {
+  height: 80vh;
+  object-fit: cover;
   position: relative;
   z-index: -1; }
 

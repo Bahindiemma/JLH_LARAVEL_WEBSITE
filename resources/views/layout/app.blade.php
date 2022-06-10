@@ -16,9 +16,6 @@
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/style.css') }}" />
 
     <style>
-        .slider-img{
-            height: 70vh !important;
-        }
         .event-box img,.gallery_product img{
             width: 100%;
             height: 300px;
@@ -29,19 +26,14 @@
             height: 300px;
             object-fit: cover;
         }
-        *{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-.box{
-    width: 100%;
-    height:100%;
-    display: flex;
-    justify-content: space-between;
-    align-items: start;
-    flex-direction: column;
-}
+        .box{
+            width: 100%;
+            height:100%;
+            display: flex;
+            justify-content: space-between;
+            align-items: start;
+            flex-direction: column;
+        }
     </style>
 
 </head>
