@@ -308,53 +308,53 @@ But you can read the following facts in order to make sure of all pluses of our 
     </div> 
          
     <!--################### Our Team Starts Here #######################--->
-          <section class="our-team team-11">
-            <div class="container">
-                <div class="session-title row">
-                      <h2>Meet our Team</h2>
+        <div class="container">
+            <div class="session-title row">
+                <h2>Meet our Team</h2>
+          </div>
+            <div class="row g-3">
+                <div class="col-12 col-md-6 col-lg-3">
+                    <div class="card h-100 border-0 shadow-md">
+                        <img src="{{ asset('assets/images/directors/director-1.jpg') }}"  style="height: 40vh; object-fit:cover !important;" class="card h-100-img-top" alt="A Street in Europe">
+                        <div class="card-body d-flex flex-column">
+                            <h4 class="text-bold" style="font-size: 18px;">Mr. Eron Martin</h4>
+                            <h5 style="font-size: 14px;">Chairman Board of Directors</h5>
+                            <a href="#" class="btn btn-primary mt-auto">Read more</a>
+                        </div>
+                    </div>
                 </div>
-                <div class="row team-row">
-                    <div class="col-md-3 col-sm-6">
-                        <div class="single-usr">
-                            <img src="{{ asset('assets/images/team/team-memb1.jpg') }}" alt="">
-                            <div class="det-o">
-                                <h4>BAHINDI EMMANUEL</h4>
-                                <i>CEO </i>
-                            </div>
+                <div class="col-12 col-md-6 col-lg-3">
+                    <div class="card h-100 border-0 shadow-md">
+                        <img src="{{ asset('assets/images/directors/director-2.jpg') }}"  style="height: 40vh; object-fit:cover !important;" class="card-img-top" alt="London">
+                        <div class="card-body d-flex flex-column">
+                            <h4 class="text-bold" style="font-size: 18px;">Mr. Edward Sekabanja</h4>
+                            <h5 class="card-title" style="font-size: 14px;">Director</h5>
+                            <a href="#" class="btn btn-primary mt-auto">Read more</a>
                         </div>
                     </div>
-                    <div class="col-md-3 col-sm-6">
-                        <div class="single-usr">
-                            <img src="{{ asset('assets/images/team/team-memb1.jpg') }}" alt="">
-                            <div class="det-o">
-                                <h4>BAHINDI EMMANUEL</h4>
-                                <i>CFO</i>
-                            </div>
+                </div>
+                <div class="col-12 col-md-6 col-lg-3">
+                    <div class="card h-100 border-0 shadow-md">
+                        <img src="{{ asset('assets/images/directors/director-3.jpg') }}"  style="height: 40vh; object-fit:cover !important;" class="card-img-top" alt="New York">
+                        <div class="card-body d-flex flex-column">
+                            <h4 class="text-bold" style="font-size: 18px;">Mr. Ochen Fredrick</h4>
+                            <h5 class="card-title" style="font-size: 14px;">Director</h5>
+                            <a href="#" class="btn btn-primary mt-auto">Read more</a>
                         </div>
                     </div>
-                    <div class="col-md-3 col-sm-6">
-                        <div class="single-usr">
-                            <img src="{{ asset('assets/images/team/team-memb1.jpg') }}" alt="">
-                            <div class="det-o">
-                                <h4>BAHINDI EMMANUEL</h4>
-                                <i>Team Leader</i>
-                            </div>
+                </div>
+                <div class="col-12 col-md-6 col-lg-3">
+                    <div class="card h-100 border-0 shadow-md">
+                        <img src="{{ asset('assets/images/directors/director-4.jpg') }}"  style="height: 40vh; object-fit:cover !important;" class="card-img-top" alt="New York">
+                        <div class="card-body d-flex flex-column">
+                            <h4 class="text-bold" style="font-size: 18px;">Ms. Idembe Carol Bunga Proscovia</h4>
+                            <h5 class="card-title" style="font-size: 14px;">Director</h5>
+                            <a href="#" class="btn btn-primary mt-auto">Read more</a>
                         </div>
                     </div>
-                    <div class="col-md-3 col-sm-6">
-                        <div class="single-usr">
-                            <img src="{{ asset('assets/images/team/team-memb1.jpg') }}" alt="">
-                            <div class="det-o">
-                                <h4>BAHINDI EMMANUEL</h4>
-                                <i>Project Manager</i>
-                            </div>
-                        </div>
-                    </div>
-
-
                 </div>
             </div>
-        </section>      
+        </div>     
          
           
     

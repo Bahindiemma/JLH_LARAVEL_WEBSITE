@@ -104,88 +104,92 @@ despair to hope.
 </section>
 
 <!--################### Our Team Starts Here #######################--->
-<section class="our-team team-11">
-    <div class="container">
-        <div class="session-title row">
-              <h2>Meet our Team</h2>
-        </div>
-        <div class="row team-row">
-            <div class="col-md-3 col-sm-6">
-                <div class="single-usr">
-                    <img src="{{ asset('assets/images/team/team-memb1.jpg') }}" alt="">
-                    <div class="det-o">
-                        <h4>MR. ERONE MARTIN</h4>
-                        <i>Chairman Board of Directors</i>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-3 col-sm-6">
-                <div class="single-usr">
-                    <img src="{{ asset('assets/images/team/team-memb1.jpg') }}" alt="">
-                    <div class="det-o">
-                        <h4>MR. SEKABANJA EDWARD KATO SAMUEL</h4>
-                        <i>Board Secretary</i>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-3 col-sm-6">
-                <div class="single-usr">
-                    <img src="{{ asset('assets/images/team/team-memb1.jpg') }}" alt="">
-                    <div class="det-o">
-                        <h4>MR. GREENWOOD MARK EDWARD</h4>
-                        <i>Ex-Officio</i>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-3 col-sm-6">
-                <div class="single-usr">
-                    <img src="{{ asset('assets/images/team/team-memb1.jpg') }}" alt="">
-                    <div class="det-o">
-                        <h4>MRS. IDEMBE BUNGA CAROLINE PROSCOVIA</h4>
-                        <i>Member</i>
-                    </div>
+<div class="container">
+    <div class="session-title row">
+        <h2>Meet our Team</h2>
+  </div>
+    <div class="row g-3">
+        <div class="col-12 col-md-6 col-lg-3">
+            <div class="card h-100 border-0 shadow-md">
+                <img src="{{ asset('assets/images/directors/director-1.jpg') }}"  style="height: 40vh; object-fit:cover !important;" class="card h-100-img-top" alt="A Street in Europe">
+                <div class="card-body d-flex flex-column">
+                    <h4 class="text-bold" style="font-size: 18px;">Mr. Eron Martin</h4>
+                    <h5 style="font-size: 14px;">Chairman Board of Directors</h5>
+                    <a href="#" class="btn btn-primary mt-auto">Read more</a>
                 </div>
             </div>
         </div>
-        <div class="row team-row">
-            <div class="col-md-3 col-sm-6">
-                <div class="single-usr">
-                    <img src="{{ asset('assets/images/team/team-memb1.jpg') }}" alt="">
-                    <div class="det-o">
-                        <h4>PR. BWAMBALE ALFONSE</h4>
-                        <i>Member</i>
-                    </div>
+        <div class="col-12 col-md-6 col-lg-3">
+            <div class="card h-100 border-0 shadow-md">
+                <img src="{{ asset('assets/images/directors/director-2.jpg') }}"  style="height: 40vh; object-fit:cover !important;" class="card-img-top" alt="London">
+                <div class="card-body d-flex flex-column">
+                    <h4 class="text-bold" style="font-size: 18px;">Mr. Edward Sekabanja</h4>
+                    <h5 class="card-title" style="font-size: 14px;">Director</h5>
+                    <a href="#" class="btn btn-primary mt-auto">Read more</a>
                 </div>
             </div>
-            <div class="col-md-3 col-sm-6">
-                <div class="single-usr">
-                    <img src="{{ asset('assets/images/team/team-memb1.jpg') }}" alt="">
-                    <div class="det-o">
-                        <h4>PR. OKELLO GEOFFREY</h4>
-                        <i>Member</i>
-                    </div>
+        </div>
+        <div class="col-12 col-md-6 col-lg-3">
+            <div class="card h-100 border-0 shadow-md">
+                <img src="{{ asset('assets/images/directors/director-3.jpg') }}"  style="height: 40vh; object-fit:cover !important;" class="card-img-top" alt="New York">
+                <div class="card-body d-flex flex-column">
+                    <h4 class="text-bold" style="font-size: 18px;">Mr. Ochen Fredrick</h4>
+                    <h5 class="card-title" style="font-size: 14px;">Director</h5>
+                    <a href="#" class="btn btn-primary mt-auto">Read more</a>
                 </div>
             </div>
-            <div class="col-md-3 col-sm-6">
-                <div class="single-usr">
-                    <img src="{{ asset('assets/images/team/team-memb1.jpg') }}" alt="">
-                    <div class="det-o">
-                        <h4>MR. KABANDA PETER</h4>
-                        <i>Member</i>
-                    </div>
+        </div>
+        <div class="col-12 col-md-6 col-lg-3">
+            <div class="card h-100 border-0 shadow-md">
+                <img src="{{ asset('assets/images/directors/director-4.jpg') }}"  style="height: 40vh; object-fit:cover !important;" class="card-img-top" alt="New York">
+                <div class="card-body d-flex flex-column">
+                    <h4 class="text-bold" style="font-size: 18px;">Ms. Idembe Carol Bunga Proscovia</h4>
+                    <h5 class="card-title" style="font-size: 14px;">Member</h5>
+                    <a href="#" class="btn btn-primary mt-auto">Read more</a>
                 </div>
             </div>
-            <div class="col-md-3 col-sm-6">
-                <div class="single-usr">
-                    <img src="{{ asset('assets/images/team/team-memb1.jpg') }}" alt="">
-                    <div class="det-o">
-                        <h4>MR. OCEN FREDRICK</h4>
-                        <i>Member</i>
-                    </div>
+        </div>
+        <div class="col-12 col-md-6 col-lg-3">
+            <div class="card h-100 border-0 shadow-md">
+                <img src="{{ asset('assets/images/directors/default.webp') }}"  style="height: 40vh; object-fit:cover !important;" class="card-img-top" alt="New York">
+                <div class="card-body d-flex flex-column">
+                    <h4 class="text-bold" style="font-size: 18px;">MR. GREENWOOD MARK EDWARD</h4>
+                    <h5 class="card-title" style="font-size: 14px;">Ex-officio</h5>
+                    <a href="#" class="btn btn-primary mt-auto">Read more</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-12 col-md-6 col-lg-3">
+            <div class="card h-100 border-0 shadow-md">
+                <img src="{{ asset('assets/images/directors/default.webp') }}"  style="height: 40vh; object-fit:cover !important;" class="card-img-top" alt="New York">
+                <div class="card-body d-flex flex-column">
+                    <h4 class="text-bold" style="font-size: 18px;">PR. BWAMBALE ALFONSE</h4>
+                    <h5 class="card-title" style="font-size: 14px;">Member</h5>
+                    <a href="#" class="btn btn-primary mt-auto">Read more</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-12 col-md-6 col-lg-3">
+            <div class="card h-100 border-0 shadow-md">
+                <img src="{{ asset('assets/images/directors/default.webp') }}"  style="height: 40vh; object-fit:cover !important;" class="card-img-top" alt="New York">
+                <div class="card-body d-flex flex-column">
+                    <h4 class="text-bold" style="font-size: 18px;">PR. OKELLO GEOFFREY</h4>
+                    <h5 class="card-title" style="font-size: 14px;">Member</h5>
+                    <a href="#" class="btn btn-primary mt-auto">Read more</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-12 col-md-6 col-lg-3">
+            <div class="card h-100 border-0 shadow-md">
+                <img src="{{ asset('assets/images/directors/default.webp') }}"  style="height: 40vh; object-fit:cover !important;" class="card-img-top" alt="New York">
+                <div class="card-body d-flex flex-column">
+                    <h4 class="text-bold" style="font-size: 18px;">MR. KABANDA PETER</h4>
+                    <h5 class="card-title" style="font-size: 14px;">Member</h5>
+                    <a href="#" class="btn btn-primary mt-auto">Read more</a>
                 </div>
             </div>
         </div>
     </div>
-</section>
+</div>   
 
 @endsection
