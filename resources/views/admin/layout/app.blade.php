@@ -159,7 +159,7 @@
       </li><!-- End Profile Page Nav -->
 
       <li class="nav-item">
-        <a class="nav-link collapsed" href="{{ url('settings') }}">
+        <a class="nav-link collapsed" href="{{ url('admin/settings') }}">
           <i class="bi bi-gear"></i>
           <span>Settings</span>
         </a>
@@ -188,7 +188,7 @@
 </main><!-- End #main -->
 
 <!-- ======= Footer ======= -->
-<footer id="footer" class="footer fixed-bottom">
+<footer id="footer" class="footer">
     <div class="copyright">
       &copy; Copyright <strong><span>Justice Livelihoods Health</span></strong>. All Rights Reserved
     </div>

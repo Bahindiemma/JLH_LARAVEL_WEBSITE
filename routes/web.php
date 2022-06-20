@@ -25,6 +25,14 @@ Route::view(uri: '/services', view: 'services');
 
 Route::resource('admin/settings', SettingsController::class);
 
-Route::resource('admin/dashboard', DashboardController::class);
+Route::resource('/admin', DashboardController::class);
 
 Route::resource('admin/gallery', GalleryController::class);
+
+Route::resource('admin/services', SettingsController::class);
+
+Route::resource('admin/blog', SettingsController::class);
+
+Route::resource('admin/about', SettingsController::class);
+
+
