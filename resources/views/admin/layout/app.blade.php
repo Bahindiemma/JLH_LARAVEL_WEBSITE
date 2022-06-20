@@ -131,42 +131,42 @@
       </li><!-- End Dashboard Nav -->
 
       <li class="nav-item">
-        <a class="nav-link collapsed" href="{{ url('about') }}">
+        <a class="nav-link collapsed" href="{{ url('admin/about') }}">
           <i class="bi bi-card-list"></i>
           <span>About</span>
         </a>
       </li><!-- End Profile Page Nav -->
 
       <li class="nav-item">
-        <a class="nav-link collapsed" href="{{ url('blog') }}">
+        <a class="nav-link collapsed" href="{{ url('/admin/blog') }}">
           <i class="bi bi-layers-fill"></i>
           <span>Blog</span>
         </a>
       </li><!-- End Profile Page Nav -->
 
       <li class="nav-item">
-        <a class="nav-link collapsed" href="{{ url('admin/gallery') }}">
+        <a class="nav-link collapsed" href="{{ url('/admin/gallery') }}">
           <i class="bi bi-images"></i>
           <span>Gallery</span>
         </a>
       </li><!-- End Profile Page Nav -->
 
       <li class="nav-item">
-        <a class="nav-link collapsed" href="{{ url('services') }}">
+        <a class="nav-link collapsed" href="{{ url('/admin/services') }}">
           <i class="bi bi-file-richtext"></i>
           <span>Services</span>
         </a>
       </li><!-- End Profile Page Nav -->
 
       <li class="nav-item">
-        <a class="nav-link collapsed" href="{{ url('admin/settings') }}">
+        <a class="nav-link collapsed" href="{{ url('/admin/settings') }}">
           <i class="bi bi-gear"></i>
           <span>Settings</span>
         </a>
       </li><!-- End Profile Page Nav -->
 
       <li class="nav-item">
-        <a class="nav-link collapsed" href="{{ url('faqs') }}">
+        <a class="nav-link collapsed" href="{{ url('/admin/faqs') }}">
           <i class="bi bi-question-circle"></i>
           <span>F.A.Q</span>
         </a>

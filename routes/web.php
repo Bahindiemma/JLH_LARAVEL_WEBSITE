@@ -3,7 +3,10 @@
 use App\Http\Controllers\{
     SettingsController,
     DashboardController,
-    GalleryController
+    GalleryController,
+    ServicesController,
+    AboutController,
+    BlogController
 };
 use Illuminate\Support\Facades\Route;
 
@@ -23,16 +26,16 @@ Route::view(uri: '/gallery', view: 'gallery');
 
 Route::view(uri: '/services', view: 'services');
 
-Route::resource('admin/settings', SettingsController::class);
+Route::resource('/admin/settings', SettingsController::class);
 
 Route::resource('/admin', DashboardController::class);
 
-Route::resource('admin/gallery', GalleryController::class);
+Route::resource('/admin/gallery', GalleryController::class);
 
-Route::resource('admin/services', SettingsController::class);
+Route::resource('/admin/services', ServicesController::class);
 
-Route::resource('admin/blog', SettingsController::class);
+Route::resource('/admin/blog', BlogController::class);
 
-Route::resource('admin/about', SettingsController::class);
+Route::get('/admin/about', [AboutController::class, 'index']);
 
 
